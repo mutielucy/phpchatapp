@@ -1,2 +1,2 @@
 # phpchatapp
- PHP oop Chatapplicatio
+ PHP OOP Chatapplication
